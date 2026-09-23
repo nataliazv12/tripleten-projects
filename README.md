@@ -8,7 +8,7 @@ Independent analytics projects focused on business insights, customer behavior a
 |---|---|---|---|
 | [Bank Customer Churn](./Bank_churn/) | Financial Services | Python, pandas, scipy, Tableau | 3 churn-risk segments → retention targeting |
 | [A/B Test Analysis](./AB_test/) | E-commerce / Product | Python, pandas, scipy (z-test), plotly | Identified test-validity flaws invalidating the A/B result |
-
+| [Apartment Listings Price Analysis](./Real_estate_pricing/) | Real Estate | Python, pandas, matplotlib, seaborn | Identified key price drivers (area, rooms, floor, timing, location) in St. Petersburg listings |
 ## Skills Demonstrated
 
 - Exploratory data analysis and customer segmentation
